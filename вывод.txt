@@ -1,0 +1,35 @@
+"C:\Program Files\Java\jdk1.8.0_202\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1\lib\idea_rt.jar=54957:C:\Program Files\JetBrains\IntelliJ IDEA 2019.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_202\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar;C:\Users\Gavrilov\IdeaProjects\part01.lesson07\out\production\part01.lesson07" Main
+Массив случайных чисел: [7, 1, 4, 5, 0, 1, 9, 5, 0, 2]
+Дoчepний поток элемента массива 0 завершен.
+Результат: 1
+
+Дoчepний поток элемента массива 0 завершен.
+Результат: 1
+
+Дoчepний поток элемента массива 1 завершен.
+Результат: 1
+
+Дoчepний поток элемента массива 1 завершен.
+Результат: 1
+
+Дoчepний поток элемента массива 2 завершен.
+Результат: 2
+
+Дoчepний поток элемента массива 4 завершен.
+Результат: 24
+
+Дoчepний поток элемента массива 5 завершен.
+Результат: 120
+
+Дoчepний поток элемента массива 5 завершен.
+Результат: 120
+
+Дoчepний поток элемента массива 7 завершен.
+Результат: 5040
+
+Дoчepний поток элемента массива 9 завершен.
+Результат: 362880
+
+Вычисленные факториалы:
+5040, 1, 24, 120, 1, 1, 362880, 120, 1, 2,
+Process finished with exit code 0
